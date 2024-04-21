@@ -30,8 +30,5 @@ yarn-error.log*
 # !.yarn/sdks
 !.yarn/versions
 
-# VS Code
-.vscode/*
-
 # Pycharm
 .idea/*
